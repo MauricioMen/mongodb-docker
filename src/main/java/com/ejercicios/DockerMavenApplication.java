@@ -18,7 +18,7 @@ public class DockerMavenApplication {
 	
 	@GetMapping("/prueba")
 	public List<String> prueba(){
-		return Arrays.asList("Mau","Eve","Juan");
+		return Arrays.asList("Mau","Eve","Mariana");
 	}
 
 }
